@@ -1,6 +1,6 @@
 # hello-world
 My first GitHub
 
-Hi guys!!
+Hi guys
 
 I am Daniel
